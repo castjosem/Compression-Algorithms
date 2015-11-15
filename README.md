@@ -1,8 +1,9 @@
-# information-theory
-El objetivo del proyecto consiste en comparar el rendimiento (relación de compresión y tiempo de compresión) del algoritmo de Shannon - Fano con la versión el algoritmo de huffman.
-1)	Diseñar e implementar un generador de archivos de cadenas de bits sparce que permita definir el tamaño  del archivo (100 KB, 500KB y 1000KB) y la distribución probabilística (equiprobable y aleatorio).
-2)	Diseñar e implementar los algoritmos de compresión a comparar.
-3)	Generar 6 archivos utilizando el generador implementado (1 por cada combinación posible).
-4)	Aplicar los algoritmos a los archivos generados
-5)	Analizar los resultados obtenidos considerando el tiempo de compresión y la relación de compresión en relación al tamaño del archivo y la distribución probabilística de los símbolos en el mensaje.
+### Compression comparison
 
+The objective is to compare the performance (compression ratio and time) of the Shannon Fano algorithm vs Huffman.
+
+1. Design and implement a file generator bit sparce chains to define the file size (100KB, 500KB and 1000KB) and the probability distribution (equiprobable and random).
+2. Design and implement algorithms to compare.
+3. Generate 6 files using the generator (1 for every possible combination).
+4. Apply the algorithms to the generated files
+5. Analyze the results obtained considering the compression time and ratio in relation to file size and the probability distribution of symbols in the message.
